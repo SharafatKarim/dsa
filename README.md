@@ -13,6 +13,15 @@ DSA stands for Data Structure and Algorithms. It's a fundamental concept in comp
 
 Understanding DSA is crucial for developing efficient and optimized software solutions.
 
+## How to access?
+
+This website is available on these domains for free,
+
+* [https://sharafat.gitbook.io/dsa](https://sharafat.gitbook.io/dsa) (enriched formatting and navigation)&#x20;
+* [https://sharafat.is-a.dev/dsa/](https://sharafat.is-a.dev/dsa/) (lightweight and PDF export support)
+
+> To export PDF, use the second link and
+
 ## How to use this site?
 
 Look left, you will find a left sidebar (scrollable). Use that, for easier navigation. Currently, as of now, structure part is based on the book,
