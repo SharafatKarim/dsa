@@ -15,12 +15,16 @@ Understanding DSA is crucial for developing efficient and optimized software sol
 
 ## How to access?
 
-This website is available on these domains for free,
+This website is available on these domains for free viewing,
 
 * [https://sharafat.gitbook.io/dsa](https://sharafat.gitbook.io/dsa) (enriched formatting and navigation)&#x20;
 * [https://sharafat.is-a.dev/dsa/](https://sharafat.is-a.dev/dsa/) (lightweight and PDF export support)
 
-> To export PDF, use the second link and
+> To export PDF, use the second link and, the top right `print` button.
+
+And source code is available on GitHub. Feel free to edit :tada:.
+
+* [https://github.com/SharafatKarim/dsa](https://github.com/SharafatKarim/dsa)&#x20;
 
 ## How to use this site?
 
