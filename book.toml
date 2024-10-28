@@ -1,0 +1,29 @@
+[book]
+title = "Data Structure and Algorithms"
+description = "DSA sample codes collection!"
+authors = ["Sharafat Karim"]
+language = "en"
+src = "."
+
+[output.html]
+smart-punctuation = true
+mathjax-support = true
+site-url = "/"
+git-repository-url = "https://github.com/SharafatKarim/dsa"
+edit-url-template = "https://github.com/SharafatKarim/dsa/blob/main/{path}"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+
+[output.html.code.hidelines]
+python = "~"
+
+[output.html.search]
+limit-results = 20
+zuse-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
