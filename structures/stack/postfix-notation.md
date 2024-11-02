@@ -348,7 +348,7 @@ Example Output:
 `8`
 {% endhint %}
 
-## Altered edition
+## Altered Edition
 
 One more approach, if you are not comfortable with queue approach for handling values!
 
