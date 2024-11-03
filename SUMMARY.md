@@ -30,6 +30,8 @@
   * [🔸 Warshall's Algorithm](structures/graph/warshalls-algorithm.md)
   * [Linked Representation](structures/graph/linked-representation.md)
   * [Traversing - BFS, DFS & More](structures/graph/traversing-bfs-dfs-and-more.md)
+  * [Dijkstra](structures/graph/dijkstra.md)
+  * [Bellman-Ford](structures/graph/bellman-ford.md)
 * [Sorting & Searching](structures/sorting-and-searching/README.md)
   * [Insertion Sort](structures/sorting-and-searching/insertion-sort.md)
   * [Selection Sort](structures/sorting-and-searching/selection-sort.md)
